@@ -2,6 +2,7 @@
 - 👶I'm Junior Developer👶
 + My technology stack:
   + C#
+  + Python
   + Frontend:
     + HTML
     + CSS and SASS
