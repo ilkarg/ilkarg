@@ -18,5 +18,6 @@
   + https://github.com/mrProger/FrontendTodo (React.JS + HTML + CSS + JavaScript)
   + https://github.com/mrProger/FlightPoolFrontend (HTML + CSS + JavaScript)
   + https://github.com/mrProger/FrontendOATKSite (HTML + SASS)
+  + https://github.com/mrProger/MyFrontendPortfolio (HTML + CSS + JavaScript)
 
 - 📫My email: zkhrebtovilya@gmail.com📫
