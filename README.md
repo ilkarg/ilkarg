@@ -20,5 +20,6 @@
   + https://github.com/mrProger/FrontendOATKSite (HTML + SASS)
   + https://github.com/mrProger/MyFrontendPortfolio (HTML + CSS + JavaScript)
   + https://github.com/mrProger/SiteAboutUml (HTML + CSS + JavaScript)
+  + https://github.com/mrProger/AdminPanel/tree/master (HTML + CSS + PHP Laravel)
 
 - 📫My email: zkhrebtovilya@gmail.com📫
