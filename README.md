@@ -1,16 +1,21 @@
 - 👋Hi, I'm Ilya | mrProger👋
-- 👶I'm Junior Developer👶
+- 👶I'm Trainee Developer👶
 + My technology stack:
   + C#
+  + Java
+  + WEB:
+    + Frontend:
+      + HTML
+      + CSS and SASS
+      + JavaScript and TypeScript
+      + Bootstrap
+      + React.Js
+    + Backend:
+      + PHP
+      + Laravel
   + Python
   + Node.JS
-  + PHP
-  + Frontend:
-    + HTML
-    + CSS and SASS
-    + JavaScript and TypeScript
-    + Bootstrap
-    + React.Js
+  + Android Studio
   + Database:
     + SQL
     + T-SQL
