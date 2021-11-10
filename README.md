@@ -1,5 +1,5 @@
 - 👋Hi, I'm Ilya | mrProger👋
-- 👶I'm Trainee Developer👶
+- 👶I'm Junior Developer👶
 + My technology stack:
   + C#
   + Java
@@ -29,7 +29,13 @@
   + https://github.com/mrProger/SiteAboutUml (HTML + CSS + JavaScript)
   + https://github.com/mrProger/SiteAboutGit (HTML + CSS + Bootstrap)
 
-+ My Backend projects for portfoli:
++ My Backend projects for portfolio:
   + https://github.com/mrProger/AdminPanel/tree/master (HTML + CSS + PHP Laravel) 
+
++ My Java projects for portfolio:
+  + https://github.com/mrProger/JsCollector (Java)
+  + https://github.com/mrProger/CssCollector (Java)
+  + https://github.com/mrProger/SassCollector (Java)
+  + https://github.com/mrProger/ScssCollector (Java)
 
 - 📫My email: zkhrebtovilya@gmail.com📫
