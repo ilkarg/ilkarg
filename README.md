@@ -10,6 +10,7 @@
       + JavaScript and TypeScript
       + Bootstrap
       + React.Js
+      + Vue.Js
     + Backend:
       + PHP
       + Laravel
@@ -28,6 +29,7 @@
   + https://github.com/mrProger/MyFrontendPortfolio (HTML + CSS + JavaScript)
   + https://github.com/mrProger/SiteAboutUml (HTML + CSS + JavaScript)
   + https://github.com/mrProger/SiteAboutGit (HTML + CSS + Bootstrap)
+  + https://github.com/mrProger/SiteAboutGit-Vue (Vue.Js + Bootstrap)
 
 + My Backend projects for portfolio:
   + https://github.com/mrProger/AdminPanel/tree/master (HTML + CSS + PHP Laravel) 
