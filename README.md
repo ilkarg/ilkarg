@@ -20,6 +20,7 @@
   + Database:
     + SQL
     + T-SQL
+    + SQLite
 
 + My Frontend projects for portfolio:
   + https://github.com/mrProger/FrontendCalculator (HTML + CSS + TypeScript/JavaScript)
