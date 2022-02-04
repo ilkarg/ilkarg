@@ -40,9 +40,6 @@
   + https://github.com/mrProger/tiwar-copy (Frontend: Vue.js; Backend: PHP Laravel)
 
 + My Java projects for portfolio:
-  + https://github.com/mrProger/JsCollector (Java)
-  + https://github.com/mrProger/CssCollector (Java)
-  + https://github.com/mrProger/SassCollector (Java)
-  + https://github.com/mrProger/ScssCollector (Java)
+  + https://github.com/mrProger/SiteCollector (Java) 
 
 - 📫My email: zkhrebtovilya@gmail.com📫
