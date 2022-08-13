@@ -48,5 +48,9 @@
 
 + My Dart projects for portfolio:
   + https://github.com/mrProger/FEL (Dart)
+  
++ My C++ Qt projects for portfolio:
+  + https://github.com/mrProger/QtParser (C++ Qt)
+  + https://github.com/mrProger/GameEngine (C++ SDL2)
 
 - 📫My email: zkhrebtovilya@gmail.com📫
