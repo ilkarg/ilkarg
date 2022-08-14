@@ -2,27 +2,14 @@
 - 👶I'm Junior Developer👶
 + My technology stack:
   + C#
-  + Java
   + WEB:
-    + Frontend:
-      + HTML
-      + CSS and SASS
-      + JavaScript and TypeScript
-      + Bootstrap
-      + React.Js
-      + Vue.Js
     + Backend:
       + PHP
       + Laravel
-      + Asp.Net
-      + Dart rpc
   + Python
   + Node.JS
-  + Dart
-  + Android Studio
   + Database:
     + SQL
-    + T-SQL
     + SQLite
 
 + My Frontend projects for portfolio:
