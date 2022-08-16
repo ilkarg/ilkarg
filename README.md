@@ -23,8 +23,15 @@
   + https://github.com/mrProger/SiteAboutGit-Vue (Vue.Js + Bootstrap)
 
 + My Backend projects for portfolio:
-  + https://github.com/mrProger/AdminPanel/tree/master (HTML + CSS + PHP Laravel) 
-  + https://github.com/mrProger/tiwar-copy_Backend (C# Asp.Net)
+  + https://github.com/mrProger/tiwar-copy_Backend (C# Asp.Net WebAPI)
+  + https://github.com/mrProger/TestAPI (PHP (Restful API), MySql)
+  + https://github.com/mrProger/MessageApi (PHP Lumen/Laravel (Restful API), MySql, Python for lights scripts)
+  + https://github.com/mrProger/OnlineGame/tree/master/Server (PHP, SQLite)
+  + https://github.com/mrProger/Newzone-Api (PHP Lumen/Laravel (Restful API), MySql, batch (bat)) (NOT READY)
+  + https://github.com/mrProger/CyberpunkFunsite/tree/master/SiteSystems (PHP (Restful API), MySql (At old version), SQLite)
+  
++ My not backend projects for portfolio on php:
+  + https://github.com/mrProger/TwigSite (PHP, Twig)
 
 + My Fullstack projects for portfolio:
   + https://github.com/mrProger/tiwar-copy (Frontend: Vue.js; Backend: PHP Laravel)
@@ -36,7 +43,7 @@
 + My Dart projects for portfolio:
   + https://github.com/mrProger/FEL (Dart)
   
-+ My C++ Qt projects for portfolio:
++ My C++ and Qt projects for portfolio:
   + https://github.com/mrProger/QtParser (C++ Qt)
   + https://github.com/mrProger/GameEngine (C++ SDL2)
 
