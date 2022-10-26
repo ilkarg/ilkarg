@@ -26,7 +26,6 @@
   + https://github.com/mrProger/tiwar-copy_Backend (C# Asp.Net WebAPI)
   + https://github.com/mrProger/TestAPI (PHP (Restful API), MySql)
   + https://github.com/mrProger/MessageApi (PHP Lumen/Laravel (Restful API), MySql, Python for lights scripts)
-  + https://github.com/mrProger/OnlineGame/tree/master/Server (PHP, SQLite)
   + https://github.com/mrProger/Newzone-Api (PHP Lumen/Laravel (Restful API), MySql, batch (bat)) (NOT READY)
   + https://github.com/mrProger/CyberpunkFunsite/tree/master/SiteSystems (PHP (Restful API), MySql (At old version), SQLite)
   
