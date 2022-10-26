@@ -32,15 +32,9 @@
 + My not backend projects for portfolio on php:
   + https://github.com/mrProger/TwigSite (PHP, Twig)
 
-+ My Fullstack projects for portfolio:
-  + https://github.com/mrProger/tiwar-copy (Frontend: Vue.js; Backend: PHP Laravel)
-
 + My Java projects for portfolio:
   + https://github.com/mrProger/SiteCollector (Java)
   + https://github.com/mrProger/FEL2 (Java)
-
-+ My Dart projects for portfolio:
-  + https://github.com/mrProger/FEL (Dart)
   
 + My C++ and Qt projects for portfolio:
   + https://github.com/mrProger/QtParser (C++ Qt)
