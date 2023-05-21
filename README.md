@@ -3,10 +3,16 @@
 + My technology stack:
   + C#
   + WEB:
+    + Frontend:
+      + JavaScript
+      + TypeScript
+      + React.js / React.ts
+      + CSS/Sass
+      + React MUI 
     + Backend:
       + PHP
       + Laravel
-      + SummerPHP
+      + IcebergPHP
   + Python
   + Node.JS
   + Database:
@@ -29,12 +35,13 @@
   + https://github.com/mrProger/MessageApi (PHP Lumen/Laravel (Restful API), MySql, Python for lights scripts)
   + https://github.com/mrProger/Newzone-Api (PHP Lumen/Laravel (Restful API), MySql, batch (bat)) (NOT READY)
   + https://github.com/mrProger/CyberpunkFunsite/tree/master/SiteSystems (PHP (Restful API), MySql (At old version), SQLite)
-  + https://github.com/mrProger/IcebergPHP (this PHP framework)
+  + https://github.com/mrProger/IcebergPHP (this my PHP framework)
 
 + My Fullstack projects for portfolio:
   + https://github.com/mrProger/NewsSite (IcebergPHP, JS, SQLite3)
   + https://github.com/mrProger/CarsShop (IcebergPHP, JS, SQLite3)
   + https://github.com/mrProger/Smurfik2.0 (IcebergPHP, JS, SQLite3)
+  + https://github.com/mrProger/Smurfik (JS, PHP, MySQL)
   
 + My not backend projects for portfolio on php:
   + https://github.com/mrProger/TwigSite (PHP, Twig)
