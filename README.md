@@ -4,11 +4,11 @@
   + C#
   + WEB:
     + Frontend:
-      + JavaScript
-      + TypeScript
+      + HTML
+      + JavaScript / TypeScript
       + React.js / React.ts
-      + CSS/Sass
-      + React MUI 
+      + CSS/Sass/Scss
+      + Material UI (MUI)
     + Backend:
       + PHP
       + Laravel
