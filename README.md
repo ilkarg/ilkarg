@@ -1,10 +1,13 @@
+# Hi, I'm Ilya
+## I'm Frontend developer from Russia :ru:
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" alt="html5 icon" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="css3 icon" />
@@ -21,11 +24,7 @@
 
 ---
 
-### :man_technologist: About Me :
-<p>Hi, I am Ilya, Frontend developer from Russia</p>
-<img src="https://komarev.com/ghpvc/?username=ilkarg&style=flat-square&color=blue" alt=""/>
-
-:mailbox:How to reach me:
+### :mailbox: Contacts:
 - <a href="mailto:zkhrebtovilya@gmail.com">First email</a>
 - <a href="mailto:ilya.kargapolov02@mail.ru">Second email</a>
 - <a href="https://t.me/ilkarg">Telegram</a>
@@ -33,7 +32,9 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkarg&layout=compact)](https://github.com/ilkarg/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/ilkarg/badges/large)](https://www.codewars.com/users/ilkarg)
+[![codewars](https://www.codewars.com/users/ilkarg/badges/large)](https://www.codewars.com/users/ilkarg) 
+
+<img src="https://komarev.com/ghpvc/?username=ilkarg&style=flat-square&color=blue" alt=""/>
