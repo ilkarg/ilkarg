@@ -16,6 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" alt="ts icon" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React" alt="react icon" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" height="40" title="Material UI (MUI)" alt="mui icon" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="40" height="40" title="Vite" alt="vite icon" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" alt="node.js icon" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40" title="Figma" alt="figma icon" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="linux icon" />
