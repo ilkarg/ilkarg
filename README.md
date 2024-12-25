@@ -1,5 +1,5 @@
 # Hi, I'm Ilya
-## I'm Frontend developer from Russia :ru:
+## I'm Fullstack developer from Russia :ru:
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -21,6 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40" title="Figma" alt="figma icon" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="linux icon" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" width="40" height="40" title="Cypress" alt="cypress icon" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" title="Python" alt="python icon" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask" alt="flask icon" />
 </div>
 
 ---
